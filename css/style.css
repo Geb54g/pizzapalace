@@ -8,6 +8,7 @@ header {
   height: 80vh;
   background-size: cover;
   background-repeat: no-repeat;
+  text-align: center;
 }
 nav {
   text-align: right;
@@ -22,4 +23,16 @@ nav li a {
   text-decoration: none;
   font-size: 1.5rem;
   color: white;
+}
+h1 {
+  color: red;
+  padding-bottom: 2rem;
+  font-size: 2rem;
+}
+.par1 {
+  font-size: 2rem;
+  word-spacing: 1rem;
+}
+nav li a:hover {
+  background-color: red;
 }
