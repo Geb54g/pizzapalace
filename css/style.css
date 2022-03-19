@@ -50,3 +50,16 @@ img {
 .type-pizza1 {
   display: flex;
 }
+.type-pizza2 {
+  display: flex;
+}
+.pizza2 {
+  width: 50%;
+  margin: 0.5rem;
+}
+.crispy {
+  height: 65%;
+}
+.stuffed {
+  height: 65%;
+}
