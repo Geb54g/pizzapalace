@@ -40,3 +40,13 @@ h3 {
   text-align: center;
   padding-top: 1rem;
 }
+.pizza1 {
+  width: 25%;
+  margin: 0.5rem;
+}
+img {
+  width: 100%;
+}
+.type-pizza1 {
+  display: flex;
+}
