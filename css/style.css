@@ -22,12 +22,12 @@ nav li a {
   padding-right: 1rem;
   text-decoration: none;
   font-size: 1.5rem;
-  color: white;
+  color: brown;
 }
 h1 {
   color: red;
   padding-bottom: 2rem;
-  font-size: 2rem;
+  font-size: 3rem;
 }
 .par1 {
   font-size: 2rem;
@@ -35,6 +35,7 @@ h1 {
 }
 nav li a:hover {
   background-color: red;
+  font-weight: 700;
 }
 h3 {
   text-align: center;
@@ -68,4 +69,13 @@ img {
 }
 .sausage {
   height: 48%;
+}
+body {
+  background-color: orange;
+}
+.btn {
+  background-color: orange;
+  font-weight: bold;
+  border-radius: 0.5em;
+  color: red;
 }
