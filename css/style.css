@@ -36,3 +36,7 @@ h1 {
 nav li a:hover {
   background-color: red;
 }
+h3 {
+  text-align: center;
+  padding-top: 1rem;
+}
