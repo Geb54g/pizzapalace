@@ -31,7 +31,8 @@ h1 {
 }
 .par1 {
   font-size: 2rem;
-  word-spacing: 1rem;
+  word-spacing: 0.5rem;
+  color: red;
 }
 nav li a:hover {
   background-color: red;
@@ -78,4 +79,14 @@ body {
   font-weight: bold;
   border-radius: 0.5em;
   color: red;
+}
+.delivery {
+  width: 20%;
+  display: flex;
+}
+.delivery > img {
+  width: 20%;
+}
+.form {
+  margin: 1rem;
 }
