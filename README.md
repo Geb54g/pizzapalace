@@ -14,15 +14,17 @@
 
 ### BDD(Behavior Driven Development)
 
-#### user fills the form
+#### user makes an order.
 
-#### Application checks validity
+#### Application checks the orders into the cart.
 
-#### User receives pop up notifying them that their application has been received.
+#### User receives the sum total of the amount to be paid.
 
-#### User recieves an email with a quote and agreement for the project.
+#### User makes the payment of the sum total.
 
-#### On signing the agreement and making the necessary payments they recieve a notification on when the project will be ready.
+#### Order is printed to the dispatch.
+
+#### User collects the order from the dispatch.
 
 ## Languages and Frameworks
 
