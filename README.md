@@ -42,6 +42,9 @@ Contribution to the project are highly welcome.Fork or clone the repo to contrib
 
 ## Setup instructions
 
+SSH:git@github.com:Geb54g/pizzapalace.git
+HTTPS:git@github.com:Geb54g/pizzapalace.git
+
 ## Live Site
 
 ## Licence
