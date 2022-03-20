@@ -10,7 +10,7 @@
 
 ## Project Description
 
--Delani studio is website where clients can get their own custom made software designs with features that suite their businesses/enterprises.
+-Pizza palace is a website that enable users to order varieties of pizzas starting from sizes,toppings and crust.A part from ordering a user can also choose the delivery option if they want their pizzas to be delivered.
 
 ### BDD(Behavior Driven Development)
 
@@ -28,7 +28,7 @@
 
 - Html5
 - Css
-- Jquery
+- Javascript
 
 ## know Bugs
 
@@ -40,11 +40,7 @@ Contribution to the project are highly welcome.Fork or clone the repo to contrib
 
 ## Setup instructions
 
-SSH:git@github.com:Geb54g/delanistudio.git
-
 ## Live Site
-
-https://geb54g.github.io/delanistudio/
 
 ## Licence
 
