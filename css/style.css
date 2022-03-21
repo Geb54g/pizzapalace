@@ -93,3 +93,9 @@ body {
 a {
   text-decoration: none;
 }
+.sub-cart {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  padding-top: 1rem;
+}
