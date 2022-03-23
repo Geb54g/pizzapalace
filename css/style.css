@@ -99,3 +99,27 @@ a {
   justify-content: space-evenly;
   padding-top: 1rem;
 }
+
+@media screen and (max-width: 480px) {
+  nav li a {
+    padding-right: 1rem;
+    text-decoration: none;
+    font-size: 0.5rem;
+    color: brown;
+  }
+  .crispy {
+    height: 65%;
+  }
+  .stuffed {
+    height: 65%;
+  }
+  .olives {
+    height: 28%;
+  }
+  .sausage {
+    height: 28%;
+  }
+  .gluten {
+    height: 50%;
+  }
+}
